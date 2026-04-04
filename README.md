@@ -4,8 +4,10 @@
 
 本项目最终确立在Github进行受到了ecust-CourseShare项目的启发，也在这里对于无偿分享各种课程资源的前辈们表达敬意
 
-如果要更新内容/上传文件请参考以下内容
+如果要更新内容/上传文件请参考以下内容：
+
 我想上传文件（请先阅读贡献指南）
 Fork 这个项目，在您的仓库里的对应位置上传文件，提交后创建 Pull Request 等待合并
+
 操作说明：
 <img width="1393" height="692" alt="pr" src="https://github.com/user-attachments/assets/4d69d989-f9de-4689-8c76-39367cb72e84" />
